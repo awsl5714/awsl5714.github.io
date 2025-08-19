@@ -84,7 +84,7 @@ comments: false
 </tbody></table>
 </li>
 <li><p>当然，仅仅这些快捷方式并不足以满足我们多元化的需求，所以，我在知乎上搜索了一些其他的快捷方式（来源：<a href=""><a target="_blank" rel="noopener" href="https://zhuanlan.zhihu.com/p/293557841">2020Typora小白完全使用教程 - 知乎 (zhihu.com)</a></a>如侵删），如下图：</p>
-<p><img src="https://awsl5714.github.io/picx-images-hosting/e14a91a82a5ab644b7b27892d4bc73d0.83ad5e1x7a.webp"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/awsl5714/Image-hosting/imge14a91a82a5ab644b7b27892d4bc73d0.png"></p>
 </li>
 <li><p>对于其中比较重要的一些快捷键我们还是提一嘴嗷~</p>
 <p>来吧小老弟！</p>
@@ -142,6 +142,7 @@ comments: false
 &#125;</code></pre>
 
 
+
 <h3 id="脚注"><a href="#脚注" class="headerlink" title="脚注"></a><strong>脚注</strong></h3><h3 id="区域元素"><a href="#区域元素" class="headerlink" title="区域元素"></a><strong>区域元素</strong></h3><p>在文章的最上方输入—，按换行键产生，然后在里面输入内容即可<a href="%E5%A6%82%E5%89%8D%E8%A8%80">^3</a>。</p>
 <h3 id="段落"><a href="#段落" class="headerlink" title="段落"></a><strong>段落</strong></h3><p>按换行键[Enter]建立新的一行,按<code>Shift</code>+<code>Enter</code>可以创建一个比段落间距更小的行间距。可在行尾插入打断线，禁止向后插入。<a href="%60%E6%89%93%E6%96%AD%E7%BA%BF%3Cbr/%3E%E5%90%8E%E9%9D%A2%E7%9A%84%E5%86%85%E5%AE%B9%E5%B0%86%E8%87%AA%E5%8A%A8%E6%8D%A2%E8%A1%8C%60">^4</a></p>
 <h3 id="高亮"><a href="#高亮" class="headerlink" title="高亮"></a><strong>高亮</strong></h3><p>用法：<code>==内容==</code><a href="%E6%9B%B4%E6%94%B9%E5%81%8F%E5%A5%BD%E8%AE%BE%E7%BD%AE%E4%B9%8B%E5%90%8E%E9%9C%80%E8%A6%81%E9%87%8D%E5%90%AFtypora%E8%BF%9B%E8%A1%8C%E6%8D%A2%E8%A1%8C">^5</a></p>
@@ -154,7 +155,7 @@ comments: false
 <li><p>输入$$+回车一样可以进入编辑器</p>
 
 <p>效果如下图所示：</p>
-<p><img src="https://awsl5714.github.io/picx-images-hosting/23123.6wr1wrz6se.png"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/awsl5714/Image-hosting/imgf69121e284541b6e19d92d7f64e1bee1.png"></p>
 <p>例如：输入lim_{x\to\infty}\exp(-x)&#x3D;0，可得</p>
 
 </li>
@@ -167,6 +168,7 @@ comments: false
 <p><code>y^2^=4</code>→y^2^&#x3D;4</p>
 </li>
 <li><p>下标</p>
+
 <p>使用~括住内容，如：</p>
 <p><code>H~2~O</code>→H<del>2</del>O</p>
 </li>
