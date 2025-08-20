@@ -207,4 +207,11 @@
         <tag>markdown</tag>
       </tags>
   </entry>
+  <entry>
+    <title>改版後的第一篇測試</title>
+    <url>/uncategorized/%E6%B8%AC%E8%A9%A6/</url>
+    <content><![CDATA[<p>我重新部署了一下自己的網站，是用的hexo+github+netlify+cloudflare進行部署的</p>
+<p>想測試一下是否可以流暢訪問和netlify端能否自動更新内容</p>
+]]></content>
+  </entry>
 </search>
