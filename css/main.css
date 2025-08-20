@@ -1239,7 +1239,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #4a7eff;
+  background: #e7ba6c;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2777,7 +2777,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 body {
-  background: url("https://cdn.jsdelivr.net/gh/awsl5714/Image-hosting/imgbeautiful-anime-character-cartoon-scene.jpg");
+  background: url("https://cdn.jsdelivr.net/gh/awsl5714/Image-hosting/imgbeautiful-anime-character-cartoon-scene1.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -2809,6 +2809,6 @@ body {
   opacity: 0.5;
 }
 .main-inner {
-  background-color: rgba(255,255,255,0);
+  background-color: rgba(255,255,255,0.5);
   padding: 0px 40px 40px 40px;
 }
